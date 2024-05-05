@@ -42,7 +42,7 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2022 BertFlix Developed by{' '}
+          &copy;  BertFlix Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
