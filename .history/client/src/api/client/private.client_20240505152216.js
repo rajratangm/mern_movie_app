@@ -28,3 +28,5 @@ privateClient.interceptors.response.use((response) => {
 });
 
 export default privateClient
+
+https://mern-movie-app-kp6k.onrender.com

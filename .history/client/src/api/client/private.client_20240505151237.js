@@ -28,3 +28,4 @@ privateClient.interceptors.response.use((response) => {
 });
 
 export default privateClient
+

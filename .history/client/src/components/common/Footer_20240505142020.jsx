@@ -52,7 +52,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Rajratan
+            Gilbert Hutapea
           </a>
         </Typography>
       </Paper>
