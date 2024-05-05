@@ -5,7 +5,7 @@ import Logo from './Logo';
 import menuConfigs from "../../configs/menu.configs";
 import { Link } from "react-router-dom";
 
-const Footer = () => {
+const Footer = () => { 
   const theme = useTheme();
   return (
     <Container>
